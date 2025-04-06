@@ -1,0 +1,59 @@
+---
+title: "Atividade 1: Divulgadores científicos"
+author: "João Marcelo e Marcus Xavier"
+format: 
+  revealjs:
+    theme: dark
+    transition: fade
+    slide-number: true
+    css: meu-tema.css  
+editor: visual
+---
+
+### Tinocando TV
+
+-   Publico alvo: Jovens adultos (Memes de rede soical, conversas geopoliticas).
+
+-   Multiplataforma (Instagram e Youtube)
+
+-   Conteúdo de historia, filosofica e geopolítica.
+
+-   Linguagem: Informal, acessivel e didatica (trocadilhos)
+
+-   Apresentador não possui formação, apenas os roteristas.
+
+------------------------------------------------------------------------
+
+![[Tinocando TV](https://www.youtube.com/@tinocandotv/videos)](images/clipboard-2844522263.png)
+
+------------------------------------------------------------------------
+
+### Sciencie ABC
+
+-   Publico alvo: Adultos (Animações com referencias de HQs).
+
+-   Conteúdo de Física, biologia e quimica.
+
+-   Linguagem: Informal, acessível e didatica.
+
+-   Os membros são formados em areas das ciencias da natureza.
+
+------------------------------------------------------------------------
+
+![[Science ABC](https://www.youtube.com/@Scienceabc/videos)](images/clipboard-711781832.png)
+
+------------------------------------------------------------------------
+
+### Ludoviajante
+
+-   Público alvo: Adolescentes (Bem voltado para as redes sociais)
+
+-   Conteúdo de Psicologia, Psicanalise e filosofia
+
+-   Linguagem: Informal, não tão acessivel para adultos (dialeto gamer)
+
+-   Não se sabe muito sobre o autor.
+
+------------------------------------------------------------------------
+
+![[Ludoviajante](https://www.youtube.com/@ludoviajante/videos)](images/clipboard-2338780562.png)
